@@ -1,4 +1,4 @@
-Hello, I.m BalazsManus
+Hello, I'm BalazsManus
 ============================
 
 Probably not developing software on old languages
