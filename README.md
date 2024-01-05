@@ -1,17 +1,20 @@
 # Hello, I'm BalazsManus.
 
-I know some languages:
+languages:
 - Hungarian
 - English
 
-And some coding languages:
+coding languages:
 - VB.Net
 - Python
 - HTML
 - PHP
 - CSS
-- JavaScript
+- JavaScript (Basic)
+- Batch
+- Shell/Bash
 - C (Learning)
 - Make (Learning)
 
-I have made some projects, but since I'm a bad maintainer all of my stuff lose support after a month or two.
+Website/Main: https://balazsmanus.hu
+Discord: https://discord.balazsmanus.hu
