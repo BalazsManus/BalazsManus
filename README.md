@@ -4,17 +4,15 @@ languages:
 - Hungarian
 - English
 
-coding languages:
-- VB.Net
-- Python
-- HTML
-- PHP
-- CSS
-- JavaScript (Basic)
-- Batch
-- Shell/Bash
-- C (Learning)
-- Make (Learning)
-
-Website/Main: https://balazsmanus.hu
-Discord: https://discord.balazsmanus.hu
+coding languages (w/ rankings):
+1. VB.Net
+2. HTML
+3. PHP
+4. CSS
+5. JavaScript (Web only?
+6. Python
+7. Docker
+8. Batch/Bash(Shell)
+9. C (Abandoned)
+10. Make (Abandoned)
+11. C# (Abandoned)
